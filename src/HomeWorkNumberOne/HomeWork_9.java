@@ -1,3 +1,5 @@
+package HomeWorkNumberOne;
+
 public class HomeWork_9 {
     public static void main(String[] args) {
         // 1. Write a program that finds the maximum and the minimum value of an integer array.
